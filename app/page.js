@@ -7,7 +7,7 @@ import ReactPlayer from 'react-player'
 // add bootstrap css 
 import 'bootstrap/dist/css/bootstrap.css'
 
-export default function VideoPlayer() {
+export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.grid}>
@@ -21,7 +21,7 @@ export default function VideoPlayer() {
           </h6>
         </div>
         <div>
-          <ReactPlayer url='/public/mango.mp4' />
+          <video controls src={"/mango.mp4"} />
         </div>
           
         <div>
