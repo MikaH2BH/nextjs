@@ -15,10 +15,10 @@ export default function Home() {
           <h1>Boos op Dierenkliniek Maastricht</h1>
         </div>
         <div>
-          <h6>
+          <p>
               Hier komt mijn verhaal. Ik ben Mango en ik ben heel boos op Dierenkliniek Maastricht. 
               Mijn baasje had bijna mijn pootje willen amputeren of mij zelfs laten inslapen.
-          </h6>
+          </p>
         </div>
         <div>
           <video controls src={"/mango.mp4"} style={{ width: "100%" }} />
