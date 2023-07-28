@@ -21,7 +21,7 @@ export default function Home() {
           </h6>
         </div>
         <div>
-          <video controls src={"/mango.mp4"} />
+          <video controls src={"/mango.mp4"} style={{ width: "100%" }} />
         </div>
           
         <div>
