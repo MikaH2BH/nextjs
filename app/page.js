@@ -9,10 +9,12 @@ export default function Home() {
       <div className={styles.description}>
         
             <h1>Boos op Dierenkliniek Maastricht</h1>
-            <h5>
-                Hier komt mijn verhaal. Ik ben Mango en ik ben heel boos op Dierenkliniek Maastricht. 
-                Mijn baasje had bijna mijn pootje willen amputeren of mij zelfs laten inslapen.
-            </h5>
+            <div>
+              <h5>
+                  Hier komt mijn verhaal. Ik ben Mango en ik ben heel boos op Dierenkliniek Maastricht. 
+                  Mijn baasje had bijna mijn pootje willen amputeren of mij zelfs laten inslapen.
+              </h5>
+            </div>
           
         <div>
           
