@@ -17,7 +17,7 @@ export default function Home() {
         <div>
           <p>
               Hier komt mijn verhaal. Ik ben Mango en ik ben heel boos op Dierenkliniek Maastricht. 
-              Mijn baasje had bijna mijn pootje willen amputeren of mij zelfs laten inslapen.
+              Mijn baasje had bijna mijn pootje laten amputeren of mij zelfs laten inslapen op advies van Dierenkliniek Maastricht en Dierenkliniek AniCura in Hasselt, zoals je later kunt zien was dit helemaal niet nodig!
           </p>
         </div>
         <div>
