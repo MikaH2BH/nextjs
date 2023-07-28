@@ -23,7 +23,7 @@ export default function Home() {
           </ul>
         </div>
       </nav>
-      <div class="row">
+      <div class="row justify-content-center">
         <div class='col-12'>
           <h1>Boos op Dierenkliniek Maastricht</h1>
         </div>
