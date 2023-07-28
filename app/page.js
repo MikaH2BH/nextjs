@@ -7,7 +7,7 @@ import ReactPlayer from 'react-player'
 // add bootstrap css 
 import 'bootstrap/dist/css/bootstrap.css'
 
-export default function Home() {
+export default function VideoPlayer() {
   return (
     <main className={styles.main}>
       <div className={styles.grid}>
