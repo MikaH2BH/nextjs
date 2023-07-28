@@ -10,14 +10,14 @@ import 'bootstrap/dist/css/bootstrap.css'
 export default function Home() {
   return (
     <main className={styles.main}>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light" style={{ width: "100%" }}>
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item active">
-              <a class="nav-link" href="#">Verhaal van Mango</a>
+              <a class="nav-link" href="#"><strong>Verhaal van Mango</strong></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Andere klachten</a>
+              <a class="nav-link" href="#"><strong>Andere klachten</strong></a>
             </li>
             
           </ul>
