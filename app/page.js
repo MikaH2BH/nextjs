@@ -29,7 +29,7 @@ export default function Home() {
         </div>
         <div class='col-10'>
           <p>
-              Hier komt mijn verhaal. Ik ben Mango en ik ben heel boos op Dierenkliniek Maastricht in Heer. 
+              Hier komt mijn verhaal. Ik ben <strong>Mango</strong> en ik ben heel boos op Dierenkliniek Maastricht in Heer. 
               Mijn baasje had bijna mijn pootje laten amputeren of mij zelfs laten inslapen op advies van Dierenkliniek Maastricht in Heer en Dierenkliniek AniCura in Hasselt, zoals je later kunt zien was dit helemaal niet nodig!
           </p>
         </div>
