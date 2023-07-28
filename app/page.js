@@ -24,16 +24,16 @@ export default function Home() {
         </div>
       </nav>
       <div class="row justify-content-center">
-        <div class='col-12'>
+        <div class='col-10'>
           <h1>Boos op Dierenkliniek Maastricht</h1>
         </div>
-        <div class='col-12'>
+        <div class='col-10'>
           <p>
               Hier komt mijn verhaal. Ik ben Mango en ik ben heel boos op Dierenkliniek Maastricht. 
               Mijn baasje had bijna mijn pootje laten amputeren of mij zelfs laten inslapen op advies van Dierenkliniek Maastricht in Heer en Dierenkliniek AniCura in Hasselt, zoals je later kunt zien was dit helemaal niet nodig!
           </p>
         </div>
-        <div class='col-12'>
+        <div class='col-10'>
           <video controls src={"/mango.mp4"} style={{ width: "100%" }} />
         </div>
           
